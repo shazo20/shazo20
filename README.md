@@ -1,4 +1,4 @@
-```md id="hyb8gj"
+
 # Mohammad Sorosh Siavashi
 ### Computer Engineering Student | Robotics | AI | Cybersecurity
 
@@ -101,4 +101,3 @@ My long-term goals are:
 - GitHub: [Add Link]
 - LinkedIn: [Add Link]
 - Telegram: [Add Link]
-```
