@@ -98,6 +98,4 @@ My long-term goals are:
 
 ## 🌐 Connect With Me
 
-- GitHub: [Add Link]
-- LinkedIn: [Add Link]
-- Telegram: [Add Link]
+- GitHub: (https://github.com/shazo20/)
